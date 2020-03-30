@@ -20,7 +20,7 @@ git clone https://github.com/ESX-PUBLIC/od_animal [esx]/od_animal
 ```
 
 ### Manually
-- Download https://github.com/ESX-PUBLIC/od_animal/archive/master.zip
+- Download https://github.com/davuongthanh/od_animal/archive/master.zip
 - Put it in the `[esx]` directory
 
 ## Installation
